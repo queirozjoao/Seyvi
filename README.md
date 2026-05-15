@@ -2,9 +2,9 @@
 
 # 📊 Análise de Recebíveis e Risco de Crédito (Projeto Acadêmico)
 
-> **Parceiro:** [Núclea]  
-> **Instituição:** [FIAP]  
-> **Semestre/Ano:** [2º Semestre / 2025]  
+> **Parceiro:** Núclea  
+> **Instituição:** FIAP  
+> **Semestre/Ano:** 2º Semestre / 2025  
 
 ## 📝 Descrição do Projeto
 Este projeto tem como objetivo modelar e analisar dados de recebíveis (boletos) e comportamento de pagadores utilizando o **Google BigQuery**. O foco é extrair inteligência a partir de dados brutos para construir indicadores de performance (KPIs) de carteira, avaliar concentração de risco e pontuação geográfica de CNPJs.
@@ -31,8 +31,8 @@ Todos os scripts SQL utilizados para construir o ambiente no BigQuery estão ver
 - `/docs/`: Apresentação e documentação de apoio.
 
 ## 👥 Autores - Team Xilemas
-* [João Paulo Silva de Queiroz] - [RM-568259]
-* [Rayssa Victorya Silva Sousa] - [RM-566946]
-* [Shalla Marla Ferreira dos Santos] - [RM-568058]
-* [Thiago Victor de Abreu] - [RM-568000]
-* [Weberson Robert de Souza] - [RM-568084]
+* João Paulo Silva de Queiroz - RM-568259
+* Rayssa Victorya Silva Sousa - RM-566946
+* Shalla Marla Ferreira dos Santos - RM-568058
+* Thiago Victor de Abreu - RM-568000
+* Weberson Robert de Souza - RM-568084
