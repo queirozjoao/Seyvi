@@ -9,6 +9,18 @@
 ## 📝 Descrição do Projeto
 Este projeto tem como objetivo modelar e analisar dados de recebíveis (boletos) e comportamento de pagadores utilizando o **Google BigQuery**. O foco é extrair inteligência a partir de dados brutos para construir indicadores de performance (KPIs) de carteira, avaliar concentração de risco e pontuação geográfica de CNPJs.
 
+## 📈 Visualização de Dados (Dashboard)
+Os dados processados e as views analíticas construídas neste repositório alimentam um dashboard interativo, projetado para o monitoramento da carteira e inteligência de risco de crédito no mercado de recebíveis.
+
+🔗 **[Clique aqui para acessar o Dashboard Interativo](https://app.powerbi.com/view?r=eyJrIjoiZDY3M2ZiMzYtNmFlYi00Yzk2LWFhMTItMTg2NDlmM2IwNGNkIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9&embedImagePlaceholder=true&pageName=f71781e052ae01e08aea)**
+
+**Detalhes da Visualização:**
+* **Ferramenta utilizada:** Power BI
+* **Principais métricas acompanhadas:**
+  * Evolução mensal e volumetria de boletos.
+  * Concentração de risco financeiro por pagador.
+  * Score geográfico e distribuição de CNPJs.
+
 ## 🏗️ Arquitetura e Modelagem
 O projeto está estruturado em um ambiente Cloud (GCP/BigQuery) dentro do dataset `nuclea_raw`. A arquitetura foi dividida entre tabelas base (armazenamento raw) e Views (camada analítica/semântica).
 
